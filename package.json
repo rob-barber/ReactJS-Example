@@ -44,6 +44,6 @@
     "style-loader": "^0.18.2",
     "uuid": "https://registry.npmjs.org/uuid/-/uuid-3.1.0.tgz",
     "webpack": "^3.5.5",
-    "webpack-dev-server": "^2.7.1"
+    "webpack-dev-server": "^3.1.11"
   }
 }
